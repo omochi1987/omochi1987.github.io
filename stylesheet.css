@@ -1,9 +1,13 @@
 .title {
-  color: blue;
+  color: white;
   font-size: 120px;
   float: right;
 }
 
 .content {
   float: right;
+  color: white;
+}
+body {
+  background-imge: url("28451.jpg");
 }
